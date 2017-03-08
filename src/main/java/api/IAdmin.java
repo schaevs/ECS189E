@@ -2,6 +2,7 @@ package api;
 
 /**
  * Created by Vincent on 21/2/2017.
+ * tests iadmin
  */
 public interface IAdmin {
 
